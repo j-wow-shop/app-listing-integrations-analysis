@@ -1,0 +1,201 @@
+api_key,app_name,app_store_url,integrations,integration_count,scrape_success,scrape_error,processed_at
+7642,Mailchimp,https://apps.shopify.com/mailchimp,,0,False,No valid URL found,2025-04-09 21:58:13+00:00
+45302,AMP - Back in Stock,https://apps.shopify.com/amp-back-in-stock,,0,False,No valid URL found,2025-04-09 21:58:19+00:00
+52962,Plug In SEO,https://apps.shopify.com/plug-in-seo,,0,False,No valid URL found,2025-04-09 21:58:27+00:00
+70132,Yotpo - Product Reviews App,https://apps.shopify.com/yotpo,,0,False,No valid URL found,2025-04-09 21:58:42+00:00
+81222,ShipStation,https://apps.shopify.com/shipstation,,0,False,No valid URL found,2025-04-09 21:58:48+00:00
+111542,AfterShip Order Tracking,https://apps.shopify.com/aftership,,0,False,No valid URL found,2025-04-09 21:58:58+00:00
+116649,Zapier: Workflow Automation,https://apps.shopify.com/zapier,,0,False,No valid URL found,2025-04-09 21:59:08+00:00
+123074,Klaviyo: Email Marketing & SMS,https://apps.shopify.com/klaviyo,,0,False,No valid URL found,2025-04-09 21:59:19+00:00
+129432,Billbee,https://apps.shopify.com/billbee,,0,False,No valid URL found,2025-04-09 21:59:26+00:00
+129687,Minmaxify Order Limits,https://apps.shopify.com/minmaxify-order-limits,,0,False,No valid URL found,2025-04-09 21:59:32+00:00
+141238,Locksmith,https://apps.shopify.com/locksmith,,0,False,No valid URL found,2025-04-09 21:59:37+00:00
+144960,Zendesk,https://apps.shopify.com/zendesk,,0,False,No valid URL found,2025-04-09 21:59:44+00:00
+156624,Printful: Print on Demand,https://apps.shopify.com/printful,,0,False,No valid URL found,2025-04-09 21:59:55+00:00
+157661,TaxJar Sales Tax Automation,https://apps.shopify.com/taxjar,,0,False,No valid URL found,2025-04-09 22:00:09+00:00
+169941,Shippo - Simplified Shipping,https://apps.shopify.com/shippo,,0,False,No valid URL found,2025-04-09 22:00:21+00:00
+186001,Omnisend Email Marketing & SMS,https://apps.shopify.com/omnisend,,0,False,No valid URL found,2025-04-09 22:00:35+00:00
+187969,Lucky Orange Heatmaps & Replay,https://apps.shopify.com/lucky-orange,,0,False,No valid URL found,2025-04-09 22:00:47+00:00
+191373,Order Printer Templates,https://apps.shopify.com/order-printer-templates,,0,False,No valid URL found,2025-04-09 22:00:55+00:00
+209977,QuickBooks Online Global,https://apps.shopify.com/quickbooks-online-global,,0,False,No valid URL found,2025-04-09 22:01:01+00:00
+216529,POWR Form Builder Contact Form,https://apps.shopify.com/powr-form-builder,,0,False,No valid URL found,2025-04-09 22:01:13+00:00
+219241,Tidio Live Chat & AI Chatbots,https://apps.shopify.com/tidio,,0,False,No valid URL found,2025-04-09 22:01:23+00:00
+219313,Smile: Loyalty Rewards Program,https://apps.shopify.com/smile-io,,0,False,No valid URL found,2025-04-09 22:01:35+00:00
+280025,Order Printer Pro: Invoice App,https://apps.shopify.com/order-printer-pro,,0,False,No valid URL found,2025-04-09 22:01:47+00:00
+294517,Recharge Subscriptions,https://apps.shopify.com/recharge,,0,False,No valid URL found,2025-04-09 22:01:56+00:00
+437349,Cart2Cart Store Migration App,https://apps.shopify.com/cart2cart,,0,False,No valid URL found,2025-04-09 22:02:09+00:00
+481135,TrustedSite - Trust Badges,https://apps.shopify.com/trustedsite,,0,False,No valid URL found,2025-04-09 22:02:23+00:00
+524345,Printify: Print on Demand,https://apps.shopify.com/printify,,0,False,No valid URL found,2025-04-09 22:02:37+00:00
+683015,Judge.me Product Reviews App,https://apps.shopify.com/judgeme,,0,False,No valid URL found,2025-04-09 22:02:49+00:00
+740217,Yotpo Email Marketing & SMS,https://apps.shopify.com/yotpo-email-marketing,,0,False,No valid URL found,2025-04-09 22:03:03+00:00
+808246,Sendcloud,https://apps.shopify.com/sendcloud,,0,False,No valid URL found,2025-04-09 22:03:11+00:00
+833174,Mailchimp Forms: Capture Leads,https://apps.shopify.com/mailchimp-forms,,0,False,No valid URL found,2025-04-09 22:03:20+00:00
+847334,Rewind Backups,https://apps.shopify.com/rewind,,0,False,No valid URL found,2025-04-09 22:03:35+00:00
+860146,Sherpas: Smart SEO,https://apps.shopify.com/sherpas,,0,False,No valid URL found,2025-04-09 22:03:48+00:00
+861484,Privy - Pop Ups Email & SMS,https://apps.shopify.com/privy,,0,False,No valid URL found,2025-04-09 22:03:57+00:00
+879490,Infinite Product Options,https://apps.shopify.com/infinite-options,,0,False,No valid URL found,2025-04-09 22:04:10+00:00
+890832,Modalyst: Dropshipping,https://apps.shopify.com/modalyst,,0,False,No valid URL found,2025-04-09 22:04:22+00:00
+891524,Flexify: Facebook Product Feed,https://apps.shopify.com/flexify,,0,False,No valid URL found,2025-04-09 22:04:36+00:00
+1017512,Crush: Speed & Image Optimizer,https://apps.shopify.com/crush,,0,False,No valid URL found,2025-04-09 22:04:49+00:00
+1051308,Loox - Product Reviews App,https://apps.shopify.com/loox,,0,False,No valid URL found,2025-04-09 22:05:00+00:00
+1135376,Hextom: Free Shipping Bar,https://apps.shopify.com/hextom-free-shipping-bar,,0,False,No valid URL found,2025-04-09 22:05:09+00:00
+1151408,Hextom: Bulk Product Edit,https://apps.shopify.com/hextom-bulk-edit,,0,False,No valid URL found,2025-04-09 22:05:22+00:00
+1158168,Shogun - Landing Page Builder,https://apps.shopify.com/shogun,,0,False,No valid URL found,2025-04-09 22:05:33+00:00
+1173834,Hextom: Quick Announcement Bar,https://apps.shopify.com/hextom-announcement-bar,,0,False,No valid URL found,2025-04-09 22:05:45+00:00
+1173856,Hextom: Countdown Timer Bar,https://apps.shopify.com/hextom-countdown-timer,,0,False,No valid URL found,2025-04-09 22:05:58+00:00
+1178253,Stamped Product Reviews & UGC,https://apps.shopify.com/stamped,,0,False,No valid URL found,2025-04-09 22:06:11+00:00
+1183497,Variant Option Product Options,https://apps.shopify.com/variant-options,,0,False,No valid URL found,2025-04-09 22:06:23+00:00
+1221538,Afterpay On-Site Messaging,https://apps.shopify.com/afterpay-messaging,,0,False,No valid URL found,2025-04-09 22:06:34+00:00
+1223734,Orderly Emails - Templates App,https://apps.shopify.com/orderly-emails,,0,False,No valid URL found,2025-04-09 22:06:45+00:00
+1229564,Hextom: Bulk Image Edit & SEO,https://apps.shopify.com/hextom-bulk-image,,0,False,No valid URL found,2025-04-09 22:06:57+00:00
+1240744,BEAST Currency Converter,https://apps.shopify.com/beast-currency,,0,False,No valid URL found,2025-04-09 22:07:07+00:00
+1286294,BOOSTER SEO IMAGE OPTIMIZER,https://apps.shopify.com/booster-seo,,0,False,No valid URL found,2025-04-09 22:07:20+00:00
+1308986,Make,https://apps.shopify.com/make,,0,False,No valid URL found,2025-04-09 22:07:28+00:00
+1345851,Weglot - Translate Your Store,https://apps.shopify.com/weglot,,0,False,No valid URL found,2025-04-09 22:07:39+00:00
+1350849,Swym Wishlist Plus,https://apps.shopify.com/swym-relay,,0,False,No valid URL found,2025-04-09 22:07:51+00:00
+1352337,Frequently Bought Together CBB,https://apps.shopify.com/frequently-bought,,0,False,No valid URL found,2025-04-09 22:08:00+00:00
+1382683,Buddha Mega Menu & Navigation,https://apps.shopify.com/buddha-mega-menu,,0,False,No valid URL found,2025-04-09 22:08:12+00:00
+1384141,Theme Updater & Backups,https://apps.shopify.com/theme-updater,,0,False,No valid URL found,2025-04-09 22:08:22+00:00
+1411680,Dianxiaomi,https://apps.shopify.com/dianxiaomi,,0,False,No valid URL found,2025-04-09 22:08:31+00:00
+1412560,Klarna Payments,https://apps.shopify.com/klarna-payments,,0,False,No valid URL found,2025-04-09 22:08:39+00:00
+1414828,Instafeed - Instagram Feed,https://apps.shopify.com/instagram-feed,,0,False,No valid URL found,2025-04-09 22:08:51+00:00
+1424624,Gorgias: Helpdesk Chat & FAQ,https://apps.shopify.com/gorgias,,0,False,No valid URL found,2025-04-09 22:09:02+00:00
+1448910,Pixc: Photo Resize,https://apps.shopify.com/pixc,,0,False,No valid URL found,2025-04-09 22:09:12+00:00
+1456597,GemPages Landing Page Builder,https://apps.shopify.com/gempages,,0,False,No valid URL found,2025-04-09 22:09:23+00:00
+1467239,Nova: GDPR Cookie Consent,https://apps.shopify.com/gdpr-cookie,,0,False,No valid URL found,2025-04-09 22:09:33+00:00
+1496853,Hulk Form Builder,https://apps.shopify.com/hulk-form,,0,False,No valid URL found,2025-04-09 22:09:43+00:00
+1498871,Boost AI Search & Filter,https://apps.shopify.com/boost-search,,0,False,No valid URL found,2025-04-09 22:09:56+00:00
+1510607,MabangErp3,https://apps.shopify.com/mabangerp,,0,False,No valid URL found,2025-04-09 22:10:09+00:00
+1520843,Shiprocket: eCommerce Shipping,https://apps.shopify.com/shiprocket,,0,False,No valid URL found,2025-04-09 22:10:17+00:00
+1524725,Spocket: US & EU Dropshipping,https://apps.shopify.com/spocket,,0,False,No valid URL found,2025-04-09 22:10:29+00:00
+1524793,Ali Reviews: Kudosi Reviews,https://apps.shopify.com/ali-reviews,,0,False,No valid URL found,2025-04-09 22:10:42+00:00
+1546113,Ryviu: Product Reviews & QA,https://apps.shopify.com/ryviu,,0,False,No valid URL found,2025-04-09 22:10:51+00:00
+1558137,Simprosys Google Shopping Feed,https://apps.shopify.com/simprosys-google,,0,False,No valid URL found,2025-04-09 22:11:01+00:00
+1601645,Pirate Ship: CheapARR Shipping,https://apps.shopify.com/pirateship,,0,False,No valid URL found,2025-04-09 22:11:12+00:00
+1604719,Fontify: Google & Custom Fonts,https://apps.shopify.com/fontify,,0,False,No valid URL found,2025-04-09 22:11:21+00:00
+1615517,PushOwl/Brevo: Email Push SMS,https://apps.shopify.com/pushowl,,0,False,No valid URL found,2025-04-09 22:11:33+00:00
+1619157,ShineOn: Print On Demand,https://apps.shopify.com/shineon,,0,False,No valid URL found,2025-04-09 22:11:46+00:00
+1622947,EZ Importer - Order Importer,https://apps.shopify.com/ez-importer,,0,False,No valid URL found,2025-04-09 22:11:58+00:00
+1743893,PageFly Landing Page Builder,https://apps.shopify.com/pagefly,,0,False,No valid URL found,2025-04-09 22:12:10+00:00
+1758145,Matrixify,https://apps.shopify.com/matrixify,,0,False,No valid URL found,2025-04-09 22:12:17+00:00
+1761435,Apliiq - Print On Demand,https://apps.shopify.com/apliiq,,0,False,No valid URL found,2025-04-09 22:12:30+00:00
+1780363,Google & YouTube,https://apps.shopify.com/google-youtube,,0,False,No valid URL found,2025-04-09 22:12:37+00:00
+1783207,Powerful Contact Form Builder,https://apps.shopify.com/contact-form,,0,False,No valid URL found,2025-04-09 22:12:51+00:00
+1825683,CJdropshipping: Much Faster,https://apps.shopify.com/cjdropshipping,,0,False,No valid URL found,2025-04-09 22:13:02+00:00
+1833435,Faire: Buy Wholesale,https://apps.shopify.com/faire,,0,False,No valid URL found,2025-04-09 22:13:16+00:00
+1838143,Areviews - Reviews Importer,https://apps.shopify.com/areviews,,0,False,No valid URL found,2025-04-09 22:13:30+00:00
+1853423,17TRACK Order Tracking,https://apps.shopify.com/17track,,0,False,No valid URL found,2025-04-09 22:13:44+00:00
+1860295,Bulk Discount Code Bot,https://apps.shopify.com/bulk-discount,,0,False,No valid URL found,2025-04-09 22:13:57+00:00
+1864474,Click & Drop,https://apps.shopify.com/click-and-drop,,0,False,No valid URL found,2025-04-09 22:14:11+00:00
+1874346,Hextom: Ultimate Sales Boost,https://apps.shopify.com/sales-boost,,0,False,No valid URL found,2025-04-09 22:14:22+00:00
+1911476,Uplinkly Sticky Cart,https://apps.shopify.com/uplinkly,,0,False,No valid URL found,2025-04-09 22:14:35+00:00
+1911522,EPROLO-Dropshipping & Branding,https://apps.shopify.com/eprolo,,0,False,No valid URL found,2025-04-09 22:14:48+00:00
+1937328,Kiwi Size Chart & Recommender,https://apps.shopify.com/kiwi,,0,False,No valid URL found,2025-04-09 22:14:59+00:00
+1942202,Judge.me AliExpress Reviews,https://apps.shopify.com/judgeme-aliexpress,,0,False,No valid URL found,2025-04-09 22:32:25+00:00
+2286320,Seguno Email Marketing,https://apps.shopify.com/seguno,,0,False,No valid URL found,2025-04-09 22:32:38+00:00
+2291688,Vitals: Reviews Bundles AI,https://apps.shopify.com/vitals,,0,False,No valid URL found,2025-04-09 22:32:52+00:00
+2321208,AI Store Builder,https://apps.shopify.com/ai-store,,0,False,No valid URL found,2025-04-09 22:33:03+00:00
+2328352,Postscript SMS Marketing,https://apps.shopify.com/postscript,,0,False,No valid URL found,2025-04-09 22:33:16+00:00
+2329312,Facebook & Instagram,https://apps.shopify.com/facebook,,0,False,No valid URL found,2025-04-09 22:33:25+00:00
+2358292,DSers-AliExpress Dropshipping,https://apps.shopify.com/dsers,,0,False,No valid URL found,2025-04-09 22:33:37+00:00
+2368594,Attrac: Bars Popups & BOGO,https://apps.shopify.com/attrac,,0,False,No valid URL found,2025-04-09 22:33:50+00:00
+2410438,Zopi - AliExpress Dropshipping,https://apps.shopify.com/zopi,,0,False,No valid URL found,2025-04-09 22:34:04+00:00
+2417604,Carro: Collaborative Commerce,https://apps.shopify.com/carro,,0,False,No valid URL found,2025-04-09 22:34:15+00:00
+2441839,ReConvert Upsell & Cross Sell,https://apps.shopify.com/reconvert,,0,False,No valid URL found,2025-04-09 22:34:29+00:00
+2473565,Pandectes GDPR Compliance,https://apps.shopify.com/pandectes,,0,False,No valid URL found,2025-04-09 22:34:42+00:00
+2473569,qikify Mega Menu & Navigation,https://apps.shopify.com/qikify,,0,False,No valid URL found,2025-04-09 22:34:53+00:00
+2532403,ONE: AI Pop Up SMS Marketing,https://apps.shopify.com/one,,0,False,No valid URL found,2025-04-09 22:35:05+00:00
+2533799,Simple Invoice - Order Printer,https://apps.shopify.com/simple-invoice,,0,False,No valid URL found,2025-04-09 22:35:15+00:00
+2556259,Snapchat Ads,https://apps.shopify.com/snapchat,,0,False,No valid URL found,2025-04-09 22:35:26+00:00
+2571727,Zendrop - Dropshipping & POD,https://apps.shopify.com/zendrop,,0,False,No valid URL found,2025-04-09 22:35:41+00:00
+2585307,Mailchimp Email SMS Marketing,https://apps.shopify.com/mailchimp-email,,0,False,No valid URL found,2025-04-09 22:35:52+00:00
+2628633,SEOAnt:AI SEO &Image Optimizer,https://apps.shopify.com/seoant,,0,False,No valid URL found,2025-04-09 22:36:00+00:00
+2653191,InstaFeed+Story Instagram Feed,https://apps.shopify.com/instafeed,,0,False,No valid URL found,2025-04-09 22:51:22+00:00
+2681387,Parcel Panel Order Tracking,https://apps.shopify.com/parcel-panel,,0,False,No valid URL found,2025-04-09 22:51:31+00:00
+2744533,GOAFFPRO - Affiliate Marketing,https://apps.shopify.com/goaffpro,,0,False,No valid URL found,2025-04-09 22:51:42+00:00
+2753413,Triple Whale,https://apps.shopify.com/triple-whale,,0,False,No valid URL found,2025-04-09 22:51:49+00:00
+2773553,UpPromote Affiliate Marketing,https://apps.shopify.com/uppromote,,0,False,No valid URL found,2025-04-09 22:51:58+00:00
+2789851,Klarna On-Site Messaging,https://apps.shopify.com/klarna-on-site,,0,False,No valid URL found,2025-04-09 23:08:22+00:00
+2802481,Auto DS: AI Dropshipping & POD,https://apps.shopify.com/auto-ds,,0,False,No valid URL found,2025-04-09 23:08:35+00:00
+2814809,AfterShip Email Marketing SMS,https://apps.shopify.com/aftership-email,,0,False,No valid URL found,2025-04-09 23:08:44+00:00
+2823609,Color Swatch King: Variants,https://apps.shopify.com/color-swatch,,0,False,No valid URL found,2025-04-09 23:08:55+00:00
+2825865,Tiny SEO Speed Image Optimizer,https://apps.shopify.com/tiny-seo,,0,False,No valid URL found,2025-04-09 23:09:07+00:00
+2830303,Consentmo GDPR Compliance,https://apps.shopify.com/consentmo,,0,False,No valid URL found,2025-04-09 23:25:34+00:00
+2844813,Metafields Guru,https://apps.shopify.com/metafields,,0,False,No valid URL found,2025-04-09 23:25:47+00:00
+2913101,Trustpilot Reviews,https://apps.shopify.com/trustpilot,,0,False,No valid URL found,2025-04-09 23:25:56+00:00
+2937711,Bundler - Product Bundles,https://apps.shopify.com/bundler,,0,False,No valid URL found,2025-04-09 23:26:09+00:00
+2938957,GLO Color Swatch & Bundles,https://apps.shopify.com/glo,,0,False,No valid URL found,2025-04-09 23:43:12+00:00
+2996257,Conversion Bear Trust Badges,https://apps.shopify.com/conversion-bear,,0,False,No valid URL found,2025-04-09 23:43:26+00:00
+2997493,Microsoft Channel,https://apps.shopify.com/microsoft,,0,False,No valid URL found,2025-04-09 23:43:36+00:00
+3009811,Pinterest,https://apps.shopify.com/pinterest,,0,False,No valid URL found,2025-04-09 23:43:44+00:00
+3018167,Booster Page Speed Optimizer,https://apps.shopify.com/booster,,0,False,No valid URL found,2025-04-09 23:43:54+00:00
+3237115,SEOAnt - Trust Badges & Icon,https://apps.shopify.com/seoant-trust,,0,False,No valid URL found,2025-04-09 23:59:35+00:00
+3288737,T Lab - AI Language Translate,https://apps.shopify.com/t-lab,,0,False,No valid URL found,2025-04-09 23:59:46+00:00
+3304377,Google Reviews by Reputon,https://apps.shopify.com/reputon,,0,False,No valid URL found,2025-04-09 23:59:57+00:00
+3328713,AfterSell Post Purchase Upsell,https://apps.shopify.com/aftersell,,0,False,No valid URL found,2025-04-10 00:00:10+00:00
+3342023,Pushdaddy WhatsApp Live Chat,https://apps.shopify.com/pushdaddy,,0,False,No valid URL found,2025-04-10 00:04:51+00:00
+3435245,Post & DHL Shipping,https://apps.shopify.com/post-dhl,,0,False,No valid URL found,2025-04-10 00:05:03+00:00
+3451699,BUCKS Currency Converter PRO++,https://apps.shopify.com/bucks,,0,False,No valid URL found,2025-04-10 00:05:14+00:00
+3501525,Seal Subscriptions App,https://apps.shopify.com/seal,,0,False,No valid URL found,2025-04-10 00:05:23+00:00
+3622843,Avada SEO Image Optimizer,https://apps.shopify.com/avada-seo,,0,False,No valid URL found,2025-04-10 00:05:37+00:00
+3780451,Notify! Back in Stock|PreOrder,https://apps.shopify.com/notify,,0,False,No valid URL found,2025-04-10 00:05:45+00:00
+3783299,Gelato: Print on Demand,https://apps.shopify.com/gelato,,0,False,No valid URL found,2025-04-10 00:05:58+00:00
+4075541,Dropshipman: Easy Dropshipping,https://apps.shopify.com/dropshipman,,0,False,No valid URL found,2025-04-10 00:06:11+00:00
+4310925,EasySell COD Form & Upsells,https://apps.shopify.com/easysell,,0,False,No valid URL found,2025-04-10 00:06:20+00:00
+4367675,Nova: Multi Currency Converter,https://apps.shopify.com/nova-currency,,0,False,No valid URL found,2025-04-10 00:06:31+00:00
+4383523,TikTok,https://apps.shopify.com/tiktok,,0,False,No valid URL found,2025-04-10 00:06:39+00:00
+4549373,Pop Convert - Pop Ups Banners,https://apps.shopify.com/pop-convert,,0,False,No valid URL found,2025-04-10 00:06:50+00:00
+4649185,Globo Product Options Variant,https://apps.shopify.com/globo,,0,False,No valid URL found,2025-04-10 00:07:01+00:00
+4697939,Vify Order Printer PDF Invoice,https://apps.shopify.com/vify,,0,False,No valid URL found,2025-04-10 00:07:11+00:00
+4772717,Trendsi: Fashion Dropshipping,https://apps.shopify.com/trendsi,,0,False,No valid URL found,2025-04-10 00:07:23+00:00
+4877949,Appstle℠ Subscriptions App,https://apps.shopify.com/appstle,,0,False,No valid URL found,2025-04-10 00:07:35+00:00
+4914161,Spotify for Artists,https://apps.shopify.com/spotify,,0,False,No valid URL found,2025-04-10 00:07:48+00:00
+5045527,CedCommerce Amazon Channel,https://apps.shopify.com/cedcommerce,,0,False,No valid URL found,2025-04-10 00:07:57+00:00
+5365443,Afterpay,https://apps.shopify.com/afterpay,,0,False,No valid URL found,2025-04-10 00:08:06+00:00
+5370433,Dropify,https://apps.shopify.com/dropify,,0,False,No valid URL found,2025-04-10 00:08:16+00:00
+5457183,Releasit Cash on Delivery COD,https://apps.shopify.com/releasit,,0,False,No valid URL found,2025-04-10 00:08:25+00:00
+5475373,MultiSafepay Payments,https://apps.shopify.com/multisafepay,,0,False,No valid URL found,2025-04-10 00:08:37+00:00
+5508997,PingPong Checkout,https://apps.shopify.com/pingpong,,0,False,No valid URL found,2025-04-10 00:08:48+00:00
+5510129,Klarna,https://apps.shopify.com/klarna,,0,False,No valid URL found,2025-04-10 00:08:56+00:00
+5519923,Upsell & Cross Sell - Selleasy,https://apps.shopify.com/selleasy,,0,False,No valid URL found,2025-04-10 00:09:07+00:00
+5525343,UpCart Cart Drawer Cart Upsell,https://apps.shopify.com/upcart,,0,False,No valid URL found,2025-04-10 00:09:19+00:00
+5600497,King Product Options & Variant,https://apps.shopify.com/king,,0,False,No valid URL found,2025-04-10 00:09:32+00:00
+5603109,Affirm Payments App,https://apps.shopify.com/affirm,,0,False,No valid URL found,2025-04-10 00:09:44+00:00
+5605973,2Checkout Convert Plus,https://apps.shopify.com/2checkout,,0,False,No valid URL found,2025-04-10 00:09:56+00:00
+5616629,Oceanpayment,https://apps.shopify.com/oceanpayment,,0,False,No valid URL found,2025-04-10 00:10:05+00:00
+5690175,Releasit COD Form & Upsells,https://apps.shopify.com/releasit-cod,,0,False,No valid URL found,2025-04-10 00:10:17+00:00
+5710953,Splitit,https://apps.shopify.com/splitit,,0,False,No valid URL found,2025-04-10 00:10:25+00:00
+5758829,Linktree,https://apps.shopify.com/linktree,,0,False,No valid URL found,2025-04-10 00:10:34+00:00
+5869673,Sezzle Payments,https://apps.shopify.com/sezzle,,0,False,No valid URL found,2025-04-10 00:10:47+00:00
+5962771,Credit/Debit card by PayPal,https://apps.shopify.com/paypal,,0,False,No valid URL found,2025-04-10 00:11:00+00:00
+6212459,Trustoo.io Product Reviews App,https://apps.shopify.com/trustoo,,0,False,No valid URL found,2025-04-10 00:11:12+00:00
+6315789,Stripe Payments,https://apps.shopify.com/stripe,,0,False,No valid URL found,2025-04-10 00:11:25+00:00
+6423567,Square Payments,https://apps.shopify.com/square,,0,False,No valid URL found,2025-04-10 00:11:37+00:00
+6534891,Quickbooks Desktop,https://apps.shopify.com/quickbooks-desktop,,0,False,No valid URL found,2025-04-10 00:11:45+00:00
+6645123,Xero,https://apps.shopify.com/xero,,0,False,No valid URL found,2025-04-10 00:11:50+00:00
+6756789,Freshdesk,https://apps.shopify.com/freshdesk,,0,False,No valid URL found,2025-04-10 00:11:57+00:00
+6867345,Intercom,https://apps.shopify.com/intercom,,0,False,No valid URL found,2025-04-10 00:12:02+00:00
+6978901,Drift,https://apps.shopify.com/drift,,0,False,No valid URL found,2025-04-10 00:12:10+00:00
+7089123,Hubspot,https://apps.shopify.com/hubspot,,0,False,No valid URL found,2025-04-10 00:12:17+00:00
+7123456,Salesforce,https://apps.shopify.com/salesforce,,0,False,No valid URL found,2025-04-10 00:12:25+00:00
+7234567,Zoho CRM,https://apps.shopify.com/zoho,,0,False,No valid URL found,2025-04-10 00:12:37+00:00
+7345678,Hotjar,https://apps.shopify.com/hotjar,,0,False,No valid URL found,2025-04-10 00:12:47+00:00
+7456789,Google Analytics 4,https://apps.shopify.com/google-analytics,,0,False,No valid URL found,2025-04-10 00:12:56+00:00
+7567890,Adobe Analytics,https://apps.shopify.com/adobe,,0,False,No valid URL found,2025-04-10 00:13:06+00:00
+7678901,Mixpanel,https://apps.shopify.com/mixpanel,,0,False,No valid URL found,2025-04-10 00:13:14+00:00
+7789012,Amplitude,https://apps.shopify.com/amplitude,,0,False,No valid URL found,2025-04-10 00:13:23+00:00
+7890123,Optimizely,https://apps.shopify.com/optimizely,,0,False,No valid URL found,2025-04-10 00:13:32+00:00
+7901234,VWO,https://apps.shopify.com/vwo,,0,False,No valid URL found,2025-04-10 00:13:40+00:00
+8012345,Crazy Egg,https://apps.shopify.com/crazy-egg,,0,False,No valid URL found,2025-04-10 00:13:48+00:00
+8123456,FullStory,https://apps.shopify.com/fullstory,,0,False,No valid URL found,2025-04-10 00:13:53+00:00
+8234567,Contentsquare,https://apps.shopify.com/contentsquare,,0,False,No valid URL found,2025-04-10 00:14:01+00:00
+8345678,Algolia Search,https://apps.shopify.com/algolia,,0,False,No valid URL found,2025-04-10 00:14:12+00:00
+8456789,Elasticsearch,https://apps.shopify.com/elasticsearch,,0,False,No valid URL found,2025-04-10 00:14:19+00:00
+8567890,Searchanise,https://apps.shopify.com/searchanise,,0,False,No valid URL found,2025-04-10 00:14:26+00:00
+8678901,Klevu Search,https://apps.shopify.com/klevu,,0,False,No valid URL found,2025-04-10 00:14:37+00:00
+8789012,Fast Simon Search,https://apps.shopify.com/fast-simon,,0,False,No valid URL found,2025-04-10 00:14:46+00:00
+8890123,Findify,https://apps.shopify.com/findify,,0,False,No valid URL found,2025-04-10 00:14:53+00:00
+8901234,Doofinder,https://apps.shopify.com/doofinder,,0,False,No valid URL found,2025-04-10 00:15:02+00:00
+9012345,Clerk.io,https://apps.shopify.com/clerk,,0,False,No valid URL found,2025-04-10 00:15:12+00:00
+9123456,Nosto,https://apps.shopify.com/nosto,,0,False,No valid URL found,2025-04-10 00:15:18+00:00
+9234567,Dynamic Yield,https://apps.shopify.com/dynamic-yield,,0,False,No valid URL found,2025-04-10 00:15:27+00:00
