@@ -288,15 +288,15 @@ Analysis conducted on 1000 Shopify apps, examining:
 ## Visualizations
 
 ### Integration Network
-![Integration Network](visualizations/integration_network.png)
+![Integration Network](data/visualizations/integration_network.png)
 Network graph showing relationships between integrations, with line thickness representing co-occurrence frequency.
 
 ### Integration Density
-![Integration Density](visualizations/integration_density.png)
+![Integration Density](data/visualizations/integration_density.png)
 Distribution of integration counts per app, showing the spread from simple to complex integration patterns.
 
 ### Category Distribution
-![Category Distribution](visualizations/category_distribution.png)
+![Category Distribution](data/visualizations/category_distribution.png)
 Relative prevalence of different integration categories across the app ecosystem.
 
 ## Integration Categories
