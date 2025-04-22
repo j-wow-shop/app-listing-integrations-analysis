@@ -1,410 +1,1455 @@
 integration,frequency,percentage
-Shopify Checkout,65,32.5
-Klaviyo,22,11.0
-Customer Accounts,15,7.5
-Shopify Flow,13,6.5
-Facebook,9,4.5
-WhatsApp,9,4.5
-Ebay,8,4.0
-Instagram,8,4.0
-Mailchimp,8,4.0
-Shopify POS,8,4.0
-Amazon,7,3.5
-TikTok,7,3.5
-Google Analytics,7,3.5
-Recharge,7,3.5
-Chatgpt,7,3.5
-Woocommerce,6,3.0
-Shopify,6,3.0
-Judge.me,5,2.5
-Shopee,5,2.5
-Zendesk,4,2.0
-Lazada,4,2.0
-Fedex,4,2.0
-Stripe,4,2.0
-Ups,4,2.0
-Zapier,4,2.0
-PayPal,4,2.0
-Google Ads,4,2.0
-Activecampaign,4,2.0
-Google,4,2.0
-Pinterest,4,2.0
-Gorgias,3,1.5
-Yotpo,3,1.5
-Facebook Ads,3,1.5
-Xero,3,1.5
-Etsy,3,1.5
-Usps,3,1.5
-Gempages,3,1.5
-Whatsapp Api,3,1.5
-Attentive,3,1.5
-Youtube,3,1.5
-Facebook Messenger,3,1.5
-Openai,3,1.5
-Gmail,3,1.5
-Delhivery,3,1.5
-Product Reviews,2,1.0
-Okendo,2,1.0
-Printify,2,1.0
-Ekart,2,1.0
-Google Drive,2,1.0
-Twilio,2,1.0
-QuickBooks,2,1.0
-Bluedart,2,1.0
-Facebook Pixel,2,1.0
-Csv,2,1.0
-Linnworks,2,1.0
-Snapchat Pixel,2,1.0
-Tiktok Pixel,2,1.0
-Sms,2,1.0
-Wish,2,1.0
-Square,2,1.0
-Skio,2,1.0
-Meta,2,1.0
-Rebuy,2,1.0
-Whatsapp Business,2,1.0
-HubSpot,2,1.0
-Github,2,1.0
-Slack,2,1.0
-Gpt-4O,2,1.0
-Constant Contact,2,1.0
-Aweber,2,1.0
-Snapchat,2,1.0
-Search & Discovery,2,1.0
-Shipstation,2,1.0
-Email Pop Ups,2,1.0
-Bigcommerce,2,1.0
-Pagefly,2,1.0
-Salesforce,2,1.0
-Snapchat Ads,2,1.0
-Tiktok Ads,2,1.0
-Walmart,2,1.0
-Seal Subscriptions,2,1.0
-Shipping,2,1.0
-Pinterest Tag,2,1.0
-Intercom,2,1.0
-Dropbox,1,0.5
-Paystack,1,0.5
-Crm Plus On Line,1,0.5
-ネクストエンジン,1,0.5
-オープンロジ,1,0.5
-Mikawaya Upsell,1,0.5
-Triidy,1,0.5
-Flutterwave,1,0.5
-Canada Post,1,0.5
-Australia Post,1,0.5
-Other Major Carriers,1,0.5
-Store Locator,1,0.5
-Checkout Extensions,1,0.5
-Wal-Mart,1,0.5
-Custom Cat,1,0.5
-Shine On,1,0.5
-Printful,1,0.5
-Product Labels,1,0.5
-Wed2C,1,0.5
-Reviews Apps,1,0.5
-Facebook Messanger,1,0.5
-Judge Me,1,0.5
-Revy Booster,1,0.5
-Weglot,1,0.5
-Currency Converter,1,0.5
-Cart Drawers - Slide Cart,1,0.5
-Headless - Hydrogen,1,0.5
-Subscriptions,1,0.5
-Facebook Pixels,1,0.5
-Gift Card,1,0.5
-Transcy,1,0.5
-Gooten,1,0.5
-Calendly,1,0.5
-Authorize.Net,1,0.5
-Afterpay,1,0.5
-Klarna,1,0.5
-Tiktok Shop,1,0.5
-Ios Buy Sdk,1,0.5
-Appointedd,1,0.5
-Customers,1,0.5
-Teelaunch,1,0.5
-Wishlist Plus,1,0.5
-Google Sheets,1,0.5
-Gift Card Scheduler,1,0.5
-Shiphero,1,0.5
-Review Apps,1,0.5
-Payment Gateways,1,0.5
-Delivery Companies,1,0.5
-Baselinker,1,0.5
-Inpost Szybkie Zwroty,1,0.5
-Easypost,1,0.5
-Apilo,1,0.5
-Meta Pixel,1,0.5
-Apptile,1,0.5
-Appmaker,1,0.5
-Ceneo.Pl,1,0.5
-Sendcloud,1,0.5
-Postnl,1,0.5
-Aws,1,0.5
-Dtdc,1,0.5
-Meta Ads,1,0.5
-Snap Cart & Product Coupon,1,0.5
-Tipalti,1,0.5
-Revy Upsell,1,0.5
-Excel,1,0.5
-Facebook Business Manager,1,0.5
-Amazon(Swa),1,0.5
-Sprint,1,0.5
-Instagram Ads,1,0.5
-Orders,1,0.5
-Bold Commerce,1,0.5
-Snap Bundle,1,0.5
-Xpressbees,1,0.5
-Ecomm,1,0.5
-3Pl,1,0.5
-Snapsell Products,1,0.5
-Bogo+,1,0.5
-Snap B2B Wholesale,1,0.5
-Snap Noti,1,0.5
-Email,1,0.5
-Hulk Product Reviews,1,0.5
-Gitla,1,0.5
-Carrier Service Api,1,0.5
-Google Maps,1,0.5
-Smtp Integration,1,0.5
-Cin7,1,0.5
-Wufoo,1,0.5
-Route,1,0.5
-Malomo,1,0.5
-Discord,1,0.5
-Microsoft,1,0.5
-Pinterest Ads,1,0.5
-Pinterest Catalog,1,0.5
-Gls Belgium,1,0.5
-Gls Express Belgium,1,0.5
-Gls Parcel Belgium,1,0.5
-Facebook Conversion Api,1,0.5
-Multiple Google Pixel,1,0.5
-Server Side Tracking,1,0.5
-Multiple Pixels,1,0.5
-Bikeflights Shipping Labels,1,0.5
-Native Subscriptions,1,0.5
-Bikeflights Shipping Rates,1,0.5
-Youtube Video,1,0.5
-Bikeflights Order Management,1,0.5
-Web Portal,1,0.5
-Shippo,1,0.5
-Dhl,1,0.5
-Redpack,1,0.5
-Loop,1,0.5
-Google Firebase,1,0.5
-Instagram Stories,1,0.5
-Datev,1,0.5
-Onesignal - Push Notification,1,0.5
-Google Mobile Ads,1,0.5
-No-Code App Builder,1,0.5
-Pos App,1,0.5
-Facebook & Tiktok Pixel  Capi,1,0.5
-Google Tracking,1,0.5
-Google Ads Pixel,1,0.5
-Monster Cart,1,0.5
-Dhl Parcel,1,0.5
-Bitbucket,1,0.5
-Paywhirl,1,0.5
-Git,1,0.5
-Amazon S3,1,0.5
-Wowcart,1,0.5
-Upsell Funnel Engine,1,0.5
-Bouncer,1,0.5
-Emailmarker,1,0.5
-Zerobounce,1,0.5
-Sendpulse,1,0.5
-Mails.So,1,0.5
-ロジレス,1,0.5
-Many More,1,0.5
-Smartrr,1,0.5
-Appstle,1,0.5
-Recurpay,1,0.5
-Hepsiburada,1,0.5
-Phone,1,0.5
-Text Message,1,0.5
-Bold Subscriptions,1,0.5
-Moveable Ink,1,0.5
-Pdf,1,0.5
-Criipto,1,0.5
-Awtomatic,1,0.5
-Trustpilot,1,0.5
-Hootsuite,1,0.5
-Freshrelevance,1,0.5
-Logistics,1,0.5
-Pickrr,1,0.5
-Indian,1,0.5
-Mitid,1,0.5
-Instagram Dms,1,0.5
-Chatgpt 4O,1,0.5
-Blibli,1,0.5
-Tokopedia,1,0.5
-Razorpay,1,0.5
-Google Sync,1,0.5
-Facebook Audience Sync,1,0.5
-Aftership,1,0.5
-Bol,1,0.5
-Aliexpress,1,0.5
-Myparcel,1,0.5
-Sistemas De Gestión,1,0.5
-Hydrogen & 2048 Variants,1,0.5
-Octane,1,0.5
-Zoom,1,0.5
-Native Shop Accounts,1,0.5
-Custom Videos,1,0.5
-Vimeo,1,0.5
-Call,1,0.5
-Cti,1,0.5
-Request,1,0.5
-Callback,1,0.5
-Tremendous,1,0.5
-Loom,1,0.5
-Instant,1,0.5
-Upcart,1,0.5
-Fatture In Cloud,1,0.5
-Mega Menu,1,0.5
-Online Chat,1,0.5
-Store Pickup + Delivery,1,0.5
-Cross-Sell,1,0.5
-Appstle℠ Subscriptions,1,0.5
-Amazon Seller Central,1,0.5
-Next Engine,1,0.5
-配送日時指定,1,0.5
-Point Of Sale,1,0.5
-Rebuy Personalization Engine,1,0.5
-Giftship,1,0.5
-Apc Overnight,1,0.5
-Seo,1,0.5
-All Major Bank Accounts,1,0.5
-Searchanise,1,0.5
-Digital Download Products,1,0.5
-Paypal / Stripe,1,0.5
-Ecomposer & Foxify,1,0.5
-Pagefly & Gempages,1,0.5
-Monster Cart Upsell+Free Gifts,1,0.5
-Infusionsoft,1,0.5
-Convertkit,1,0.5
-Dafiti,1,0.5
-Falabella,1,0.5
-Bpost,1,0.5
-Linio,1,0.5
-Google And Apple Pay,1,0.5
-Algolia | Doofinder | Motive,1,0.5
-Tiktok Live,1,0.5
-Danea Easyfatt,1,0.5
-Youtube Live,1,0.5
-Facebook Live,1,0.5
-Instagram Live,1,0.5
-Ad Accounts,1,0.5
-Connectiff | Adjust,1,0.5
-Squarespace,1,0.5
-Zapiet,1,0.5
-Dhl Ecommerce,1,0.5
-Parcel Send,1,0.5
-Sequra | Aplazame | Scalapay,1,0.5
-Mypost Business,1,0.5
-Eparcel,1,0.5
-Toll,1,0.5
-Octone | Zendesk | Whatsapp,1,0.5
-Hextom: Translate & Currency,1,0.5
-Boost Product Filter & Search,1,0.5
-Bing,1,0.5
-Mercado Libre,1,0.5
-Couriers,1,0.5
-Abandoned Cart,1,0.5
-Whatsapp Abandoned Cart,1,0.5
-Canva.Com,1,0.5
-Instagram Shop,1,0.5
-Feed For Facebook,1,0.5
-Product Feed,1,0.5
-Startrack,1,0.5
-Google Shopping,1,0.5
-Unleashed,1,0.5
-Myob,1,0.5
-Sigep,1,0.5
-Sigepweb,1,0.5
-Correios,1,0.5
-Clover,1,0.5
-Ruffruff 予約販売,1,0.5
-Line,1,0.5
-Openlogi,1,0.5
-Chat.Openai.Com,1,0.5
-Facebook Live Sales,1,0.5
-Acelérala,1,0.5
-Multiple Pixe,1,0.5
-Sunat,1,0.5
-Copdate,1,0.5
-Postgres,1,0.5
-Ll Shopify Themes,1,0.5
-Ai,1,0.5
-Moloni,1,0.5
-Marketo,1,0.5
-Okta,1,0.5
-Sfdc,1,0.5
-Langshop,1,0.5
-Online Store 2.0,1,0.5
-Airbyte,1,0.5
-App Blocks,1,0.5
-Bizyness,1,0.5
-Facebook Video,1,0.5
-Facebook Wall Posts,1,0.5
-Bing Ads,1,0.5
-Minimax,1,0.5
-Netsuite,1,0.5
-Barcode Scanners,1,0.5
-Telegram,1,0.5
-Scroll Onpage,1,0.5
-E-Računi,1,0.5
-Metakocka,1,0.5
-Pantheon,1,0.5
-Vasco,1,0.5
-All Your Marketing Channels,1,0.5
-Shopif​Y Email,1,0.5
-Omnisend,1,0.5
-Mailerlite,1,0.5
-Birokrat,1,0.5
-Facebook & Instagram,1,0.5
-Multi Pixel,1,0.5
-Sendgrid,1,0.5
-Apparel Magic,1,0.5
-Your Existing Store,1,0.5
-Wordpress,1,0.5
-Ali Reviews,1,0.5
-Checkout Api Branding,1,0.5
-Loox.Io,1,0.5
-Judge.Me And 30+ Other,1,0.5
-Google Search Console,1,0.5
-Gls,1,0.5
-Ryviu,1,0.5
-Speed,1,0.5
-Shipping Bar,1,0.5
-Dpd,1,0.5
-Popup,1,0.5
-Aisensy,1,0.5
-Yellow.Ai,1,0.5
-Netcore,1,0.5
-Tellephant,1,0.5
-Freshchat,1,0.5
-Gupshup,1,0.5
-Facebook Pixel Id,1,0.5
-Magyar Posta,1,0.5
-Amazon Selling Parnter,1,0.5
-80+ Major Platforms,1,0.5
-Social Share,1,0.5
-Bigquery,1,0.5
-Free And Premium Themes,1,0.5
-Hotjar,1,0.5
-Inspectlet,1,0.5
-Paccofacile.It,1,0.5
-Prestashop,1,0.5
-Wix,1,0.5
-Foxpost,1,0.5
-Privy,1,0.5
-Growave ‑ Reviews,1,0.5
-Loox ‑ Photo Reviews,1,0.5
-Royal Mail,1,0.5
-Packeta,1,0.5
-Magento,1,0.5
-Mpl,1,0.5
-Stamped.Io,1,0.5
+Shopify Checkout,339,33.9
+Klaviyo,100,10.0
+Customer Accounts,91,9.1
+Shopify Flow,68,6.8
+Facebook,62,6.2
+Shopify POS,58,5.8
+Amazon,53,5.3
+Instagram,51,5.1
+Google Analytics,48,4.8
+Mailchimp,36,3.6
+Zapier,31,3.1
+Recharge,30,3.0
+TikTok,28,2.8
+WhatsApp,27,2.7
+Ups,27,2.7
+PayPal,26,2.6
+Google Ads,25,2.5
+Yotpo,25,2.5
+Judge.me,24,2.4
+Pagefly,24,2.4
+Ebay,23,2.3
+Dhl,23,2.3
+Etsy,22,2.2
+Shopify,21,2.1
+Google,21,2.1
+Usps,19,1.9
+Woocommerce,19,1.9
+Fedex,19,1.9
+Gorgias,18,1.8
+Stripe,17,1.7
+Omnisend,16,1.6
+Google Sheets,16,1.6
+HubSpot,16,1.6
+Youtube,15,1.5
+Facebook Ads,14,1.4
+Zendesk,14,1.4
+Online Store 2.0,12,1.2
+Google Shopping,12,1.2
+Meta,12,1.2
+Gempages,12,1.2
+Walmart,11,1.1
+Salesforce,11,1.1
+Twitter,11,1.1
+Aliexpress,11,1.1
+Shipstation,10,1.0
+Dpd,10,1.0
+Meta Ads,10,1.0
+Magento,9,0.9
+Stamped.Io,9,0.9
+Google Drive,9,0.9
+Facebook Pixel,9,0.9
+Dropbox,9,0.9
+QuickBooks,9,0.9
+Attentive,8,0.8
+Wix,8,0.8
+Google Maps,8,0.8
+Loox,8,0.8
+Xero,8,0.8
+Netsuite,7,0.7
+Tiktok Shop,7,0.7
+Bigcommerce,7,0.7
+Google Analytics 4,7,0.7
+Google Tag Manager,7,0.7
+Slack,7,0.7
+Chatgpt,7,0.7
+Gls,7,0.7
+Messenger,6,0.6
+Sendcloud,6,0.6
+Activecampaign,6,0.6
+Checkout Extensibility,6,0.6
+Smile.Io,6,0.6
+Pagefly Landing Page Builder,6,0.6
+Email,6,0.6
+Pinterest,6,0.6
+Shop Pay,6,0.6
+Canada Post,6,0.6
+Quickbooks Online,6,0.6
+Telegram,6,0.6
+Shopee,6,0.6
+Order Printer,6,0.6
+Square,6,0.6
+Brevo,6,0.6
+Instagram Ads,6,0.6
+Google Calendar,5,0.5
+Openai,5,0.5
+Ga4,5,0.5
+Theme Editor,5,0.5
+Stamped,5,0.5
+Linkedin,5,0.5
+Royal Mail,5,0.5
+Wordpress,5,0.5
+Gempage,5,0.5
+Gmail,5,0.5
+Translate & Adapt,5,0.5
+Loyalty Lion,5,0.5
+Privy,5,0.5
+Aftership,5,0.5
+Product Reviews,5,0.5
+Tiktok Ads,5,0.5
+Loop Returns,5,0.5
+Upcart,5,0.5
+Meta Pixel,4,0.4
+Aweber,4,0.4
+Baselinker,4,0.4
+Klaviyo: Email Marketing & Sms,4,0.4
+Afterpay,4,0.4
+Any Theme,4,0.4
+Langify,4,0.4
+Yotpo Reviews,4,0.4
+Squarespace,4,0.4
+Tiktok Pixel,4,0.4
+Typeform,4,0.4
+Point Of Sale (Pos),4,0.4
+Bundles,4,0.4
+Android,4,0.4
+Kaufland,4,0.4
+Sendgrid,4,0.4
+Aramex,4,0.4
+Loyaltylion,4,0.4
+Constant Contact,4,0.4
+Easypost,4,0.4
+Intercom,4,0.4
+Dsers,4,0.4
+Lazada,4,0.4
+Seal Subscriptions,4,0.4
+Google Reviews,4,0.4
+Tapcart,4,0.4
+Weglot,4,0.4
+Google My Business,4,0.4
+Klarna,4,0.4
+Postnord,3,0.3
+Postnl,3,0.3
+Australia Post,3,0.3
+Twilio,3,0.3
+Google Merchant Center,3,0.3
+Discounts,3,0.3
+Bol.Com,3,0.3
+Zoom,3,0.3
+Shippo,3,0.3
+Product Customizer,3,0.3
+Vchasno.Kasa,3,0.3
+Authorize.Net,3,0.3
+Pdf,3,0.3
+Line,3,0.3
+Csv,3,0.3
+Upsell,3,0.3
+Zipify,3,0.3
+Shogun,3,0.3
+Zapiet,3,0.3
+Mixpanel,3,0.3
+Zoho Crm,3,0.3
+Infusionsoft,3,0.3
+Facebook Messenger,3,0.3
+Facebook Api,3,0.3
+Facebook Catalog,3,0.3
+Ecomposer,3,0.3
+Inpost,3,0.3
+Github,3,0.3
+Google Search Console,3,0.3
+Discord,3,0.3
+Wholesale,3,0.3
+Trustpilot,3,0.3
+Okendo,3,0.3
+Google Adwords,3,0.3
+Evri,3,0.3
+Delivery Date,3,0.3
+Shiphero,3,0.3
+Erp,3,0.3
+Shop Minis,3,0.3
+Bold,3,0.3
+Cash On Delivery,2,0.2
+Ios,2,0.2
+Rebuy,2,0.2
+Customily,2,0.2
+Product Page,2,0.2
+Cart Page,2,0.2
+Shein,2,0.2
+Meta Advertising,2,0.2
+Mcf,2,0.2
+Inbox,2,0.2
+Instant Traffic,2,0.2
+Ecomposer Landing Page Builder,2,0.2
+Loox Reviews,2,0.2
+Mirakl,2,0.2
+Shiprocket,2,0.2
+Speed,2,0.2
+Seal,2,0.2
+Order Printer Pro,2,0.2
+Flexport,2,0.2
+Vimeo,2,0.2
+Preorder,2,0.2
+Estimated Delivery Date,2,0.2
+Segment,2,0.2
+Delivery Time,2,0.2
+Trustoo,2,0.2
+Bold Subscriptions,2,0.2
+Growave,2,0.2
+Google Firebase,2,0.2
+Cjdropshipping,2,0.2
+Google Business Profile,2,0.2
+Zalora,2,0.2
+Wechat,2,0.2
+Prestashop,2,0.2
+Hextom: Translate & Currency,2,0.2
+Wayfair,2,0.2
+Fera Product Reviews,2,0.2
+Algolia,2,0.2
+Sendlane,2,0.2
+Google Map,2,0.2
+Dhl Express,2,0.2
+Skubana,2,0.2
+Admin,2,0.2
+Multi Vendor Marketplace,2,0.2
+Judge.Me Product Reviews,2,0.2
+Loomis,2,0.2
+Braintree,2,0.2
+Facebook Business Manager,2,0.2
+Instant,2,0.2
+Zoho Books,2,0.2
+Thank You Page,2,0.2
+Order Status Page,2,0.2
+Fb Pixel,2,0.2
+Printful,2,0.2
+Platinum,2,0.2
+Airbnb,2,0.2
+Ryviu,2,0.2
+Facebook Sdk,2,0.2
+Nova Poshta Shipping,2,0.2
+Checkout Blocks,2,0.2
+Recaptcha,2,0.2
+Wish,2,0.2
+Markets,2,0.2
+Overstock,2,0.2
+Freshdesk,2,0.2
+Google Sheet,2,0.2
+B2B,2,0.2
+Smile,2,0.2
+Make.Com,2,0.2
+Zipcode Validation,2,0.2
+Gladly,2,0.2
+Product Options,2,0.2
+Getresponse & Campaign Monitor,2,0.2
+Product Labels,2,0.2
+Google Recaptcha,2,0.2
+Fathom Analytics,2,0.2
+Sendy,2,0.2
+Facebook Channel,2,0.2
+Microsoft Dynamics,2,0.2
+Facebook And Instagram,2,0.2
+Online Store 2,2,0.2
+Swell,2,0.2
+Facebook Advertising,2,0.2
+Reviews.Io,2,0.2
+Courses Plus,2,0.2
+Online Store,2,0.2
+Tiktokshop,2,0.2
+Seguno Email Marketing,2,0.2
+Postscript,2,0.2
+Mailgun,2,0.2
+Layouthub,2,0.2
+Whatsapp Api,2,0.2
+Cod,2,0.2
+Make,2,0.2
+Listrak,2,0.2
+Automizely,2,0.2
+Delhivery,2,0.2
+Subscriptions,2,0.2
+Google Trends,2,0.2
+Nosto,2,0.2
+Recurpay,2,0.2
+Whatsapp Business,2,0.2
+Skio,2,0.2
+Langshop,2,0.2
+Shopping Cart,2,0.2
+Stocky,2,0.2
+Seo,2,0.2
+Yodel,2,0.2
+Datev,2,0.2
+Sendinblue,2,0.2
+Channeladvisor,2,0.2
+Facebook Product Feed,2,0.2
+Omnisend & Active Campaign,2,0.2
+Mailchimp & Klaviyo,2,0.2
+Affirm,2,0.2
+Countdown Timer,2,0.2
+Razorpay,2,0.2
+Mailerlite,2,0.2
+Local Delivery,2,0.2
+Monday.Com,2,0.2
+Help Scout,2,0.2
+Brt,2,0.2
+Packeta,2,0.2
+Uniwin,2,0.2
+Ppl,2,0.2
+Google Photos,2,0.2
+Ai,2,0.2
+Shop App,2,0.2
+Yandex,2,0.2
+Bing,2,0.2
+Purolator,2,0.2
+Channel Advisor,1,0.1
+Prduct,1,0.1
+Easy Subscriptions App,1,0.1
+Shopify Reviews,1,0.1
+Product Reviews Add-On,1,0.1
+Picqer Mobile App,1,0.1
+Over 20 Channels,1,0.1
+Pagefly Page Builder,1,0.1
+Json-Ld,1,0.1
+Digthisdata,1,0.1
+Multi Store & Location,1,0.1
+Pimcore,1,0.1
+Avalara,1,0.1
+Retreat,1,0.1
+Narvar,1,0.1
+Zapier (Add-On),1,0.1
+Cartesan,1,0.1
+Teeinblue,1,0.1
+Works On All Themes,1,0.1
+Trackable Short Links,1,0.1
+Influencers Marketing,1,0.1
+Referral Program,1,0.1
+Track Email & Sms Marketing,1,0.1
+Affiliate Marketing,1,0.1
+Qoo10,1,0.1
+Farfetch,1,0.1
+Rent,1,0.1
+Ad Accounts,1,0.1
+Orderdesk,1,0.1
+Signifyd,1,0.1
+Property,1,0.1
+Services Rental,1,0.1
+Product Rental,1,0.1
+Clutch,1,0.1
+Built For Web Ar,1,0.1
+Target,1,0.1
+Wave Accounting,1,0.1
+Microsoft Teams,1,0.1
+Paypal Express,1,0.1
+Multi Language,1,0.1
+Gpay,1,0.1
+Third Party Carriers,1,0.1
+Delivery Rates,1,0.1
+Gotomeeting,1,0.1
+Yeshugo,1,0.1
+Default Currency Convertor,1,0.1
+Verticalresponse,1,0.1
+Fatture In Cloud,1,0.1
+Bol/Fbb/Fbr/Vvb,1,0.1
+View On Standard Web Browsers,1,0.1
+No 3D Modelling Required,1,0.1
+Headless Commerce,1,0.1
+Bamboohr,1,0.1
+Vanga Ai,1,0.1
+Sales Motivator - Free Gifts,1,0.1
+Subscription Apps,1,0.1
+Functions,1,0.1
+Smile: Loyalty & Rewards,1,0.1
+Search Console,1,0.1
+Peasy,1,0.1
+Facebook Page,1,0.1
+Including,1,0.1
+Sales Reports,1,0.1
+Inventory Management,1,0.1
+Inventory Tracking,1,0.1
+Inventory Forecast,1,0.1
+3Pl & Wms Integrations,1,0.1
+Nzpost,1,0.1
+Langify/Metafield/Repricer,1,0.1
+Printify,1,0.1
+Bol.Nl/Bol.Be/Bol.Com,1,0.1
+Metafields/Customfields/Tags,1,0.1
+Creditsyard,1,0.1
+Referralyard,1,0.1
+Onbuy,1,0.1
+Tiktok Advertising,1,0.1
+Shoper.Pl,1,0.1
+Ometria,1,0.1
+Printway,1,0.1
+Dreamship,1,0.1
+Macys,1,0.1
+Saks,1,0.1
+Nordstrom,1,0.1
+Redmart,1,0.1
+Currency Converter,1,0.1
+Bundle,1,0.1
+Product Bundles,1,0.1
+Loyalty Discounts,1,0.1
+Qunatity Discounts,1,0.1
+Erli.Pl,1,0.1
+Dx Secure,1,0.1
+Delivery Companies,1,0.1
+Payment Gateways,1,0.1
+Review Apps,1,0.1
+Ecomposer & Foxify,1,0.1
+Monster Cart Upsell+Free Gifts,1,0.1
+Product Carousel,1,0.1
+Day & Ross Api,1,0.1
+Fast Simon,1,0.1
+Klayvio,1,0.1
+Ig60.Com,1,0.1
+Youcan.Shop,1,0.1
+Intigo,1,0.1
+Tiktak Pro,1,0.1
+Allegro.Pl,1,0.1
+Discount,1,0.1
+Rivo,1,0.1
+Triple Whale,1,0.1
+Odoo Erp,1,0.1
+Files,1,0.1
+Courses,1,0.1
+Digital Downloads,1,0.1
+Bol,1,0.1
+Pickware,1,0.1
+Inventory Data Sync From Odoo,1,0.1
+Track Sale Influencer Sale,1,0.1
+Music,1,0.1
+Headless - Hydrogen,1,0.1
+Lai Product Reviews,1,0.1
+Agile Crm,1,0.1
+Capsule Crm,1,0.1
+20+ More,1,0.1
+Amelia,1,0.1
+Pdfs,1,0.1
+Venmo,1,0.1
+Order Email Notifications,1,0.1
+Ruffruff 予約販売,1,0.1
+Swiss Banking Apps,1,0.1
+Product Auction,1,0.1
+Seamless Across Mobile Devices,1,0.1
+Gearment,1,0.1
+Notia Saas,1,0.1
+Asos,1,0.1
+Quickbook,1,0.1
+Customer Sync To Odoo,1,0.1
+Order Data Sync To Odoo,1,0.1
+Sami Quote,1,0.1
+Sami Lock,1,0.1
+Google Pay,1,0.1
+Apple Pay,1,0.1
+Amazon Pay,1,0.1
+No Customer Apps To Download,1,0.1
+Bexio,1,0.1
+Zipify One Click Upsell,1,0.1
+Ping,1,0.1
+Schenker,1,0.1
+Xml Feed,1,0.1
+Fraktjakt,1,0.1
+Mpl,1,0.1
+Weebly,1,0.1
+Ecwid,1,0.1
+Get Response,1,0.1
+Kiyoh,1,0.1
+The Feedback Company,1,0.1
+Google Rich Snippets,1,0.1
+Canpar,1,0.1
+Searchspring,1,0.1
+Your Shopify Theme,1,0.1
+Currency Converters,1,0.1
+Plooto,1,0.1
+New Zealand Post Nzp,1,0.1
+Skydropx,1,0.1
+Eship,1,0.1
+Catalograck/Dci,1,0.1
+Any Page Builder,1,0.1
+Pickup,1,0.1
+Delivery,1,0.1
+Sema Data,1,0.1
+Turn 14,1,0.1
+Asap,1,0.1
+Wps,1,0.1
+Gusto,1,0.1
+Zoho Inventory,1,0.1
+Pagar.Me,1,0.1
+Beyond Main,1,0.1
+Sktch.Io,1,0.1
+Freshchat,1,0.1
+Stripe Connect,1,0.1
+Emotive Sms,1,0.1
+Emotive Attribution,1,0.1
+Klaviyo Email,1,0.1
+Themarketer.Com,1,0.1
+Dropified,1,0.1
+Shiptheory,1,0.1
+Brightpearl,1,0.1
+Desktop Software Connector,1,0.1
+Desktop Gang Sheeter,1,0.1
+Advance Shipping Rules,1,0.1
+At&T,1,0.1
+Expected Delivery Date,1,0.1
+T-Mobile,1,0.1
+Verizon,1,0.1
+Coupon Code,1,0.1
+Huxloe 360 Portal,1,0.1
+Prettydamnquick,1,0.1
+Fly Bundles,1,0.1
+Importify,1,0.1
+Delivery Estimate,1,0.1
+Typekit,1,0.1
+Sürat Kargo,1,0.1
+Fera Product Reviews App,1,0.1
+Judge.Me Product Reviews App,1,0.1
+Yurtiçi,1,0.1
+Mng Kargo,1,0.1
+Ptt Kargo,1,0.1
+Hepsijet,1,0.1
+Aras Kargo,1,0.1
+Shipping Estimate,1,0.1
+Over 10 Carriers,1,0.1
+Webwinkelkeur,1,0.1
+Kraviyo,1,0.1
+Swag.Com,1,0.1
+Pipedrive,1,0.1
+Expected Delivery,1,0.1
+Multi Pixels,1,0.1
+Pixel Facebook,1,0.1
+Easy Pixel Setup,1,0.1
+Offering Merchants Seamless Delivery Management,1,0.1
+Sales Pop,1,0.1
+Getresponse,1,0.1
+Wheel.Io,1,0.1
+Dead Simple Blog Sync,1,0.1
+Esty,1,0.1
+Mothership Supplier,1,0.1
+Vindi,1,0.1
+Oracle Netsuite,1,0.1
+Justuno,1,0.1
+Shipping Bar,1,0.1
+Trust Badges,1,0.1
+Genesis,1,0.1
+Aftersell,1,0.1
+Alia,1,0.1
+Sap,1,0.1
+Facebook Ads Manager,1,0.1
+Ispring Learn,1,0.1
+Globalpost,1,0.1
+Klaviyo Email Marketing & Sms,1,0.1
+Koala Bundles,1,0.1
+Bookings.Com,1,0.1
+Pricelabs,1,0.1
+Icalendar,1,0.1
+Vrbo,1,0.1
+Banca Virtual,1,0.1
+Zipify Pages & Ocu,1,0.1
+Freeagent,1,0.1
+2.0 Themes,1,0.1
+Facebook Account,1,0.1
+Google Account,1,0.1
+Wistia,1,0.1
+Appstle Subscriptions,1,0.1
+Social Snowball,1,0.1
+Willdesk: Live Chat & Helpdesk,1,0.1
+Multi Pixel,1,0.1
+Gordon,1,0.1
+Sufio,1,0.1
+Onedrive,1,0.1
+J&T,1,0.1
+Imile,1,0.1
+Thank-You Page,1,0.1
+Gordon Delivery,1,0.1
+Last Mile Platform,1,0.1
+Trello,1,0.1
+Front,1,0.1
+Bazaarvoice,1,0.1
+Bundles App,1,0.1
+Zoho Invoices,1,0.1
+B2B Solution,1,0.1
+Itunes,1,0.1
+Confluence,1,0.1
+B2B Lock,1,0.1
+Judgeme Product Reviews App,1,0.1
+Gpt-4O,1,0.1
+Shipping Per Items,1,0.1
+Flat Rate Per Item,1,0.1
+Shipping Rate,1,0.1
+Product Bundle,1,0.1
+Volume Discount,1,0.1
+Crosell,1,0.1
+Chatgpt 4,1,0.1
+Zapiet ‑ Pickup + Delivery,1,0.1
+Pagbrasil,1,0.1
+Revbase,1,0.1
+Appmax,1,0.1
+Your Shopify Store And Automaticall,1,0.1
+Prestige Theme,1,0.1
+B2B Portal,1,0.1
+Clover,1,0.1
+Bookurier,1,0.1
+Easy Bundles,1,0.1
+Kite,1,0.1
+באזז משלוחים,1,0.1
+Buzz,1,0.1
+Sello,1,0.1
+Shopify Email,1,0.1
+Order Tracking,1,0.1
+Checkout Upsell,1,0.1
+Returns & Exchanges,1,0.1
+Youtube Shopping,1,0.1
+Tracking Paypal,1,0.1
+Paypal Tracking,1,0.1
+Tracking Sync Paypal,1,0.1
+Sync Paypal Tracking,1,0.1
+Google Seo,1,0.1
+Page Builder Apps,1,0.1
+Product Description,1,0.1
+Shopif​Y Email,1,0.1
+Upcart—Cart Drawer,1,0.1
+Convertkit,1,0.1
+Sales Notification,1,0.1
+Hubspot & Sendinblue,1,0.1
+Picmanager,1,0.1
+O Coding Require,1,0.1
+Ll Rtl Languages,1,0.1
+Splio,1,0.1
+Sales Popup,1,0.1
+Popup,1,0.1
+Dynamics,1,0.1
+Gyro-N Dfm,1,0.1
+Social Proof,1,0.1
+Releasit Cod Form & Upsells,1,0.1
+Icart Cart Drawer,1,0.1
+Slide Cart Upsell By Amp,1,0.1
+Österreichische Post,1,0.1
+Buzz Systems,1,0.1
+בלדר,1,0.1
+Ipregistry.Co,1,0.1
+Postis,1,0.1
+Tiktok Shop Cancellation,1,0.1
+Tiktok Shop Listing,1,0.1
+Pactic,1,0.1
+Smartbill,1,0.1
+Memex,1,0.1
+Cargus,1,0.1
+Bartolini,1,0.1
+Econnect.Dhlparcel.Eu,1,0.1
+Fan Courier,1,0.1
+Billingo Hu,1,0.1
+Speedex,1,0.1
+Livechat,1,0.1
+Pbh,1,0.1
+Speedy Bg,1,0.1
+Tiktok Shop Order,1,0.1
+Tablet,1,0.1
+Image Compressor,1,0.1
+Prime Returns,1,0.1
+Shop Promise,1,0.1
+Fgo,1,0.1
+Ai App For Photos,1,0.1
+Image Processing,1,0.1
+Photo Retouching,1,0.1
+Background Removal,1,0.1
+Revenueroll,1,0.1
+Xlsx,1,0.1
+Adobe,1,0.1
+Shop App Minis,1,0.1
+My.Dhlecommerce.Nl,1,0.1
+Watilio.Com,1,0.1
+Package Logistics,1,0.1
+N8N,1,0.1
+Adwords,1,0.1
+Cin7,1,0.1
+Instagram Stories,1,0.1
+Instagram Photos,1,0.1
+Courier Apis,1,0.1
+Spreadsheet Files,1,0.1
+Third-Party Apis,1,0.1
+Instagram Reels,1,0.1
+Instagram Feed,1,0.1
+Instagram Hashtag,1,0.1
+Instafeed,1,0.1
+Deepl Api,1,0.1
+Fineartamerica.Com,1,0.1
+Pixels.Com,1,0.1
+Faqs,1,0.1
+Product Faqs,1,0.1
+Product Pages,1,0.1
+Analytics Apps,1,0.1
+Google Translate Api,1,0.1
+Country Block,1,0.1
+Extensiv,1,0.1
+Bot Block,1,0.1
+Disable Right Click,1,0.1
+Ip Block,1,0.1
+Security,1,0.1
+Inbound Shipping,1,0.1
+Consignor Management,1,0.1
+Tokopedia,1,0.1
+Blibli,1,0.1
+Spocket,1,0.1
+Aliexpress Dropship,1,0.1
+Oberlo,1,0.1
+Zendrop,1,0.1
+Open Ai,1,0.1
+Whatsapp Cloud,1,0.1
+Raselbot,1,0.1
+Marketing Apps,1,0.1
+Dsers‑Aliexpress Dropshipping,1,0.1
+Product Personalizer,1,0.1
+Yodel Uk,1,0.1
+Youtube Video,1,0.1
+Fulfil,1,0.1
+Google Forms,1,0.1
+Ups Uk,1,0.1
+Dpd Uk,1,0.1
+Evri Uk,1,0.1
+Whistl,1,0.1
+Onesignal - Push Notification,1,0.1
+Pples Augmented Reality Experience,1,0.1
+Excel File,1,0.1
+Rest Apis,1,0.1
+File Upload,1,0.1
+Product Variants,1,0.1
+Product Personalization,1,0.1
+Google Mobile Ads,1,0.1
+Whatsapp Business Platform,1,0.1
+Shipbob,1,0.1
+Minimax,1,0.1
+Linnworks,1,0.1
+Image Optimizer,1,0.1
+Birokrat,1,0.1
+E-Računi,1,0.1
+Pantheon,1,0.1
+Metakocka,1,0.1
+No-Code App Builder,1,0.1
+Microsoft Consent Mode (Uet),1,0.1
+Vasco,1,0.1
+Whatsapp Business Api,1,0.1
+Google Merchant Centre,1,0.1
+Aliexpress Reviews,1,0.1
+Ali Express,1,0.1
+Customer Privacy Api,1,0.1
+Sameday,1,0.1
+Tiktok Shop Returns,1,0.1
+Tiktok Shop Api,1,0.1
+Nova Poshta,1,0.1
+Fullstory,1,0.1
+Recurly,1,0.1
+Sunat,1,0.1
+Tidio,1,0.1
+Gpt-4,1,0.1
+Tag Manager,1,0.1
+Excel,1,0.1
+Posti,1,0.1
+Subscriptions App,1,0.1
+Translate My Store,1,0.1
+Google Tag Manager (Gtm),1,0.1
+Checkout Upsells,1,0.1
+Credit Card,1,0.1
+Meesho,1,0.1
+Hotjar,1,0.1
+Unifaun,1,0.1
+And 100+ More,1,0.1
+Notion.Com,1,0.1
+Rivyo,1,0.1
+Joom,1,0.1
+Mng,1,0.1
+Yurtiçi Kargo,1,0.1
+Yahoo,1,0.1
+Netsuite/Celigo Returns,1,0.1
+Easypoints,1,0.1
+Pacsoft,1,0.1
+Ll Popular Shipping Provider,1,0.1
+Bluedart,1,0.1
+Shipway,1,0.1
+Acelérala,1,0.1
+Shipyaari,1,0.1
+Schemas,1,0.1
+Nykaa,1,0.1
+Poshmark,1,0.1
+Customer Creation,1,0.1
+Hydrogen & 2048 Variants,1,0.1
+Blue Dart,1,0.1
+Ecom Express,1,0.1
+Movin,1,0.1
+New Zealand Post,1,0.1
+Parcelforce,1,0.1
+Pagefly & Gempages,1,0.1
+Canva Integration,1,0.1
+Sql,1,0.1
+B2B Catalogs,1,0.1
+Easycatalog,1,0.1
+Price Lists,1,0.1
+Order Management,1,0.1
+Synchronize Order Information,1,0.1
+Customers,1,0.1
+Dtdc,1,0.1
+Cargowise,1,0.1
+Alibaba,1,0.1
+Sendle,1,0.1
+Daraz,1,0.1
+Custom Websites,1,0.1
+Contentsquare,1,0.1
+Adtrace,1,0.1
+Publications,1,0.1
+Localisation,1,0.1
+Icl Express,1,0.1
+Bloy,1,0.1
+Customer Hub,1,0.1
+Google Sheets & Recaptcha,1,0.1
+Contact Form Builder,1,0.1
+Subscription Options,1,0.1
+Cartbot: Gift With Purchase,1,0.1
+Multicurrency Converter Apps,1,0.1
+Google Smtp,1,0.1
+Exportify,1,0.1
+Innoship,1,0.1
+Pixels,1,0.1
+Meta (Facebook) Conversion Api,1,0.1
+Google Cloud Platform,1,0.1
+Checkout - Customer Events,1,0.1
+Dinero,1,0.1
+Billy,1,0.1
+E-Conomic,1,0.1
+Winads,1,0.1
+Appointment,1,0.1
+Pop-Ups,1,0.1
+Bin Analytics,1,0.1
+Email Data Analytics,1,0.1
+Ip Data Analytics,1,0.1
+Phone Data Analytics,1,0.1
+Ship-Forwarding Addresses,1,0.1
+Database,1,0.1
+Calendly,1,0.1
+Active Campaign,1,0.1
+Walmart Marketplace,1,0.1
+Gpc,1,0.1
+Tiktok & Meta Pixels (Ldu),1,0.1
+Google Consent Mode V2,1,0.1
+Eyeq Perfectly Clear,1,0.1
+Picsart,1,0.1
+Order Fulfillment Workflows,1,0.1
+Amazon Seller,1,0.1
+Appointment Booking,1,0.1
+Exactonline,1,0.1
+Email Pop Ups,1,0.1
+100+ Carriers,1,0.1
+Built-In Erp Connectors,1,0.1
+Custom Api,1,0.1
+Spreadsheet,1,0.1
+Phone/Address/Name Analytics,1,0.1
+Redshelf,1,0.1
+Roadie,1,0.1
+Enventa Diamod Erp,1,0.1
+Dao,1,0.1
+Insert Code,1,0.1
+Mondial Relay,1,0.1
+The4,1,0.1
+Correios,1,0.1
+Importação De Planilha,1,0.1
+Microsoft Bing,1,0.1
+Wise,1,0.1
+Indexnow,1,0.1
+Chat Gpt,1,0.1
+Multi-Language,1,0.1
+Multi-Currency,1,0.1
+Popular Themes,1,0.1
+Geolocation,1,0.1
+Chargebee,1,0.1
+Paddle,1,0.1
+Mobikul Mobile App Builder,1,0.1
+Code,1,0.1
+Booking,1,0.1
+Smsa,1,0.1
+Calendar,1,0.1
+Checkstore,1,0.1
+Head,1,0.1
+Header,1,0.1
+Hey Circle Cloud,1,0.1
+Marketo,1,0.1
+Ftp,1,0.1
+E-Mail,1,0.1
+<Head>,1,0.1
+Bring,1,0.1
+Yourgls,1,0.1
+Drop Shipping,1,0.1
+Site Speed,1,0.1
+Store Collections,1,0.1
+Yopto,1,0.1
+Theme Customizer,1,0.1
+Custom Themes,1,0.1
+Kiwi Size Chart & Recommender,1,0.1
+Storifyme,1,0.1
+Google Merchant,1,0.1
+Dymo Labelwriter,1,0.1
+Exact Online,1,0.1
+Swap Commerce,1,0.1
+Google Ads (In Review),1,0.1
+Fba,1,0.1
+Omnisend Email Marketing & Sms,1,0.1
+Instant Buy,1,0.1
+Instant Upsell,1,0.1
+Nova Post,1,0.1
+Robo Chromeextension,1,0.1
+Google Searchconsole,1,0.1
+Collection Pages,1,0.1
+Featured Collections,1,0.1
+Amazon Web Services,1,0.1
+Multichannel Import,1,0.1
+Mechanic,1,0.1
+Relay.App,1,0.1
+Woo,1,0.1
+Ruffruff Selling Periods,1,0.1
+Bubble.Io,1,0.1
+Print On Demand,1,0.1
+Free And Premium Themes,1,0.1
+Amazon Fba,1,0.1
+Etranslate,1,0.1
+Amazon Mcf,1,0.1
+Translation Lab,1,0.1
+Live Me Up,1,0.1
+Recharge Subscriptions,1,0.1
+Trax,1,0.1
+Zip Codes,1,0.1
+Easysell,1,0.1
+Print,1,0.1
+Iterable,1,0.1
+Www.Rockerbox.Com,1,0.1
+Www.Daasity.Com,1,0.1
+Www.Stitchdata.Com,1,0.1
+Twilio Segment,1,0.1
+Blueex,1,0.1
+Braze,1,0.1
+Leopards Courier Service,1,0.1
+Checkout And Accounts Editor,1,0.1
+Call Courier,1,0.1
+M&P,1,0.1
+New Customer Accounts,1,0.1
+Mf Wishlist,1,0.1
+Acumbamail,1,0.1
+Invoiceninja.Com,1,0.1
+Customer Tags,1,0.1
+Google Page Speed Api,1,0.1
+Your Online Store,1,0.1
+Wishlist Plus,1,0.1
+Upsell Funnel Engine,1,0.1
+Tiktok (Coming Soon),1,0.1
+Judge.Me / Yotpo,1,0.1
+Wowcart,1,0.1
+Stamped.Io / Loox,1,0.1
+Home Depot,1,0.1
+Shopify Product Reviews,1,0.1
+Fly.Io,1,0.1
+Judge Me,1,0.1
+Wishlist King,1,0.1
+Canadacustoms,1,0.1
+Cbsa,1,0.1
+Customs,1,0.1
+Sqlite,1,0.1
+Discounts Api,1,0.1
+Google Web Master,1,0.1
+Leadform,1,0.1
+Analyze,1,0.1
+Accessibility-Compatible,1,0.1
+Delivery Route Planner,1,0.1
+Dropi,1,0.1
+Monta,1,0.1
+Ydh Express,1,0.1
+Product Enhancement,1,0.1
+Improvement,1,0.1
+Accessibility Widgets,1,0.1
+Automation,1,0.1
+Theme,1,0.1
+E-Gold,1,0.1
+Egold,1,0.1
+Budbee,1,0.1
+Looker Studio,1,0.1
+Accessibility Statement,1,0.1
+Accessibility Ada,1,0.1
+Amazon Products,1,0.1
+Stay.Ai,1,0.1
+Qr Code Generator,1,0.1
+Monster Upsells,1,0.1
+Gpt4,1,0.1
+Collabs,1,0.1
+Collective,1,0.1
+Teeinblue Product Personalizer,1,0.1
+Prive,1,0.1
+Accessibility-Driven Seo,1,0.1
+Delivery And Pickup Order Apps,1,0.1
+Android/Ios,1,0.1
+Sms,1,0.1
+Delivery Dates And Times,1,0.1
+Markopolo.Ai,1,0.1
+Capi,1,0.1
+Amazon Associate,1,0.1
+Calender,1,0.1
+Codmonster,1,0.1
+Custom Website,1,0.1
+Cash On Delivery Fee,1,0.1
+电报,1,0.1
+Bronto,1,0.1
+Utm,1,0.1
+Sdk,1,0.1
+Releasit,1,0.1
+Trackingmore Order Tracking,1,0.1
+微信应用程序接口,1,0.1
+Wholesale Lock Manager,1,0.1
+Uppromote Affiliate Marketing,1,0.1
+Frequently Bought Together Cbb,1,0.1
+Sc Product Options,1,0.1
+Multiple Facebook Pixel,1,0.1
+Conversion Api,1,0.1
+脸书信使,1,0.1
+电子邮件、微信,1,0.1
+Copdate,1,0.1
+Google Structured Data,1,0.1
+Dr Stacked Discounts On Cart,1,0.1
+Instgram,1,0.1
+Line公式アカウント,1,0.1
+Amazon Affiliate,1,0.1
+Gtin,1,0.1
+Carrier Service Api,1,0.1
+Ringcentral,1,0.1
+微信,1,0.1
+Messagebird,1,0.1
+Acoustic,1,0.1
+Clicksend,1,0.1
+Priya,1,0.1
+Vonage,1,0.1
+Sklik,1,0.1
+Facturation,1,0.1
+Avoirs,1,0.1
+Eircode,1,0.1
+Qikify Upsell,1,0.1
+Facebook Conversion Api,1,0.1
+Multiple Pixels,1,0.1
+Google One Tap Login,1,0.1
+Porter,1,0.1
+Microsoft Clarity,1,0.1
+Tcs,1,0.1
+Www.Chatondesk.Com,1,0.1
+Server Side Tracking,1,0.1
+Facebook Marketing,1,0.1
+Fb Pixel Integration,1,0.1
+Booking App By Webkul,1,0.1
+Unicommerce,1,0.1
+Constantcontact,1,0.1
+Joy: Rewards & Loyalty Program,1,0.1
+Ite Cargo Courier System,1,0.1
+Multiple Google Pixel,1,0.1
+Amazon Seller Central,1,0.1
+Marketplaces,1,0.1
+Brick And Mortar Tools,1,0.1
+2048 Varianten,1,0.1
+Dunzo,1,0.1
+Email Tools,1,0.1
+Product Registration,1,0.1
+Parts Unlimited,1,0.1
+Shadowfax,1,0.1
+Cdiscount,1,0.1
+Hermes,1,0.1
+Draft Orders,1,0.1
+Ebury,1,0.1
+Spring,1,0.1
+Leadsquared,1,0.1
+Manomano,1,0.1
+Delivery Slot Management,1,0.1
+Ecartapi,1,0.1
+Apis,1,0.1
+Best Currency Converter,1,0.1
+Free Gift,1,0.1
+Amazon And Amazon Ads,1,0.1
+Variants,1,0.1
+Google Shopping Ads,1,0.1
+Conversio,1,0.1
+Astro Loyalty,1,0.1
+Webkul Product Auction,1,0.1
+Tepo Product Options,1,0.1
+Revy Sales Countdown Timer,1,0.1
+Crosssell,1,0.1
+Shipping And Fulfillment Apps,1,0.1
+Replo,1,0.1
+Gocardless,1,0.1
+Third-Party Logistics (3Pl),1,0.1
+Tawk.To,1,0.1
+Bogo,1,0.1
+Delivery Boy,1,0.1
+Google Ads And Analytics,1,0.1
+Shipengine,1,0.1
+Eaby,1,0.1
+Bogos By Secomapp,1,0.1
+Kava Sections,1,0.1
+Mercury,1,0.1
+Smile Io,1,0.1
+Facebook Conversion Apis,1,0.1
+Bold Apps,1,0.1
+Meta Conversion Api & Twitter,1,0.1
+Easyecom,1,0.1
+Google Ads Tracking,1,0.1
+Osync: Export Orders To Sheet,1,0.1
+Webkul Product Wishlist,1,0.1
+Api2Cart,1,0.1
+Eta,1,0.1
+Edd,1,0.1
+Braintree Payments,1,0.1
+Shipping Options,1,0.1
+Postscript Sms Marketing,1,0.1
+Facebook Feed,1,0.1
+Rivo Loyalty Rewards Referrals,1,0.1
+Facebook & Instagram Shops,1,0.1
+Payment Methods,1,0.1
+Tiktok Shop Review Syndication,1,0.1
+App.Invoicing.Co,1,0.1
+Latvijas Pasts,1,0.1
+Various Sales Channels,1,0.1
+Buy With Prime,1,0.1
+Javascript,1,0.1
+Bemeapps,1,0.1
+Eggflow,1,0.1
+Tucker Rocky,1,0.1
+Flexify,1,0.1
+Itella Smartpost,1,0.1
+Turn14,1,0.1
+Fedex Web Service,1,0.1
+Postal Codes,1,0.1
+Zipcode Rates,1,0.1
+Postcodes,1,0.1
+Filerobot Hub,1,0.1
+Elly Analytics,1,0.1
+Gorgias Zendesk Reamaze,1,0.1
+Gls Parcelshop,1,0.1
+Zásilkovna Packeta,1,0.1
+Paypal Stripe,1,0.1
+Klarna Affirm Afterpay,1,0.1
+Recharge Bold Subscriptions,1,0.1
+Omniva,1,0.1
+Seon Fraud Protection,1,0.1
+Google Shopping (Reviews),1,0.1
+Recart,1,0.1
+Google Gemini,1,0.1
+Variant Option Product Options,1,0.1
+Us And Other World Countries,1,0.1
+Shopflo,1,0.1
+Elevar,1,0.1
+Heatmap.Com,1,0.1
+Crossinx,1,0.1
+Vibe,1,0.1
+Google Catalog,1,0.1
+Ingram Micro,1,0.1
+One-Page Checkout,1,0.1
+Synnex,1,0.1
+Pdf Invoice Order Printer,1,0.1
+Sku And Barcodes,1,0.1
+Order Delivery Date,1,0.1
+Shop Pay Checkout,1,0.1
+Tilda,1,0.1
+Point Of Sale,1,0.1
+Various Inventory Locations,1,0.1
+Reeleezee,1,0.1
+Pinterest Catalog,1,0.1
+Junip Reviews,1,0.1
+Okendo Reviews,1,0.1
+Shipcloud,1,0.1
+Tik Tok Ads,1,0.1
+Cj Dropshipping,1,0.1
+Pinterest Ads,1,0.1
+Rsr Group,1,0.1
+Intrastat,1,0.1
+Elster,1,0.1
+Tiktok Catalog,1,0.1
+Segment.Io,1,0.1
+China Post,1,0.1
+Yunexpress,1,0.1
+Banksapi,1,0.1
+Balíkovna,1,0.1
+Google Autocomplete,1,0.1
+Runit,1,0.1
+Trusted Shops,1,0.1
+Retail And Locker Boxes,1,0.1
+Post Purchase,1,0.1
+Footer,1,0.1
+Sales Badge On Different Theme,1,0.1
+Cartix,1,0.1
+Emarsys,1,0.1
+Ctc,1,0.1
+Oke,1,0.1
+Yes,1,0.1
+Reg,1,0.1
+Jtr,1,0.1
+Truecaller,1,0.1
+Amazon Alexa,1,0.1
+Tawkto,1,0.1
+Revel Systems,1,0.1
+Erps,1,0.1
+Warehouse Management Systems,1,0.1
+Blogs,1,0.1
+Atopla,1,0.1
+Themes & Style,1,0.1
+Ecommerce And Marketplaces,1,0.1
+Financial Accounting Solutions,1,0.1
+Up Sell,1,0.1
+All Types Products,1,0.1
+Crm Plus On Line,1,0.1
+Dokopoi,1,0.1
+Wms,1,0.1
+Lalamove,1,0.1
+Borzo,1,0.1
+Retail Solutions,1,0.1
+Grabexpress,1,0.1
+One Click Upsell,1,0.1
+Boosty Cart Drawer Cart Upsell,1,0.1
+Sage,1,0.1
+Instagram Live,1,0.1
+Tiktok Live,1,0.1
+Totvs,1,0.1
+Canadapost,1,0.1
+Instant Delivery,1,0.1
+Delivery Date And Time,1,0.1
+Bouncer,1,0.1
+Tiny,1,0.1
+Intelipost,1,0.1
+Rbux,1,0.1
+Snapchat,1,0.1
+Adyen,1,0.1
+Chargeflow,1,0.1
+Cybersource,1,0.1
+Upsell Apps And Many More,1,0.1
+Yotpo Subscriptions,1,0.1
+Appstle Subscription,1,0.1
+X/Twitter,1,0.1
+Sendpulse,1,0.1
+Facebook Live,1,0.1
+Dpd Local Uk,1,0.1
+Youtube Live,1,0.1
+Banks And Credit Cards,1,0.1
+And More,1,0.1
+Quick Commerce,1,0.1
+Route Optimizer,1,0.1
+Upc,1,0.1
+Dpd Api,1,0.1
+Emailmarker,1,0.1
+80+ Major Carriers,1,0.1
+Szamlazz.Hu,1,0.1
+Számlázz.Hu,1,0.1
+Mails.So,1,0.1
+Bling,1,0.1
+Zerobounce,1,0.1
+Finecom Logistics,1,0.1
+Skuvault,1,0.1
+Shippingeasy,1,0.1
+Outlook,1,0.1
+Tiktok Pixel Tracking,1,0.1
+Facebook Pixel Tracking,1,0.1
+Bing Ads Tracking,1,0.1
+Pushover,1,0.1
+Post Purchase Offers,1,0.1
+Thank You Page Offers,1,0.1
+Smtp,1,0.1
+Pinterest Pixels,1,0.1
+B2B/Wholesale Solution,1,0.1
+Sps Commerce,1,0.1
+Cart X,1,0.1
+Meta Conversions Api,1,0.1
+Ios 14,1,0.1
+Pinterest Pixels Tag,1,0.1
+Pinterest Tag Pixel,1,0.1
+Exemptify,1,0.1
+Pinterest Tag,1,0.1
+Google Autofill,1,0.1
+Googleshopping,1,0.1
+Ultimate Filter App,1,0.1
+Filter Apps,1,0.1
+Globo Filter App,1,0.1
+Boost Filter App,1,0.1
+Desk,1,0.1
+Webflow,1,0.1
+Paywhirl,1,0.1
+Vipps App,1,0.1
+Mobilepay App,1,0.1
+Vanga Ai • Upsell Assistant,1,0.1
+Image Optimization,1,0.1
+Storeya,1,0.1
+Mailjet,1,0.1
+Pixel Pinterest,1,0.1
+Pinterest Pixel,1,0.1
+Flickrocket,1,0.1
+Plentymarkets,1,0.1
+Gift Box,1,0.1
+Viber,1,0.1
+Facebook Reviews,1,0.1
+Truspilot Reviews,1,0.1
+Apple Maps,1,0.1
+Stockinstore Click & Collect,1,0.1
+Xentral,1,0.1
+Orlen Paczka,1,0.1
+Bitlogin,1,0.1
+Channelengine,1,0.1
+Google Fonts,1,0.1
+Mesa,1,0.1
+Uploadery,1,0.1
+Deepl,1,0.1
+All Types Of Themes,1,0.1
+Eu Gdpr,1,0.1
+Notify! Back In Stock|Preorder,1,0.1
+Edi,1,0.1
+Cross-Platform,1,0.1
+Everywhere,1,0.1
+Html5,1,0.1
+Microsoft,1,0.1
+Dropshipping,1,0.1
+B2B Wholesale App,1,0.1
+Cookie Banner,1,0.1
+Cart Drawer/Slider,1,0.1
+Ali Reviews,1,0.1
+Stamped.Io Reviews,1,0.1
+Jugde.Me Reviews,1,0.1
+Tcs Api,1,0.1
+Checkout Extensions,1,0.1
+Shipstation/3Pl/Erp,1,0.1
+Returns Apps,1,0.1
+Stamped Io,1,0.1
+Office 365,1,0.1
+Airtable,1,0.1
+Frequently Bought Together,1,0.1
+Payflow,1,0.1
+Paypal Sync,1,0.1
+Sync Order Tracking,1,0.1
+Ship Noc,1,0.1
+Austpost Eparcel,1,0.1
+Zalando,1,0.1
+Kaching,1,0.1
+Dymo Printer,1,0.1
+Thermal Printer,1,0.1
+Brother Printer,1,0.1
+Label Printer,1,0.1
+Webstamp,1,0.1
+Kit,1,0.1
+Candy Rack,1,0.1
+Shoppay,1,0.1
+Net Terms,1,0.1
+Snapchat Ads,1,0.1
+Upsell Wizard,1,0.1
+Hundreds Of Apps Like Klaviyo,1,0.1
+Shipping Fulfillment,1,0.1
+Openai Gpt-4 Api,1,0.1
+Redpack,1,0.1
+Search & Discovery,1,0.1
+Twitter Ads,1,0.1
+Digital Commerce Api,1,0.1
+Soundcloud,1,0.1
+Inpost Szybkie Zwroty,1,0.1
+Apilo,1,0.1
+Shipping,1,0.1
+Customer Portal,1,0.1
+Shipnoc,1,0.1
+Quote,1,0.1
+Bba Mastro,1,0.1
+Glow Loyalty,1,0.1
+Digital Product,1,0.1
+Facebook Custom Audiences,1,0.1
+Barcode Scanners,1,0.1
+Kustomer,1,0.1
+Zip,1,0.1
+Digital Download,1,0.1
+Ebook,1,0.1
+Upload,1,0.1
+Wide Bundle,1,0.1
+Amazon S3,1,0.1
+Česká Pošta,1,0.1
+Rivyo Product Reviews & Qa,1,0.1
+Stamped Product Reviews,1,0.1
+Loox Product Reviews,1,0.1
+Iphone,1,0.1
+Perfect For Valentine’S Day,1,0.1
+Advertising Apis,1,0.1
+Avada,1,0.1
+Ll Themes,1,0.1
+Searchpie,1,0.1
+Air Product Reviews,1,0.1
+Transcy,1,0.1
+Zopi,1,0.1
+Aliexpress Review Importer,1,0.1
+Bi Tools,1,0.1
+Databases,1,0.1
+Lms Integration,1,0.1
+Social Media Apis,1,0.1
+File Servers,1,0.1
+Data Warehouse,1,0.1
+Selling Lms Courses On Store,1,0.1
+Hydrogen (Headless Store),1,0.1
+Crm Integration,1,0.1
+And Developer Apis,1,0.1
+Membership Access,1,0.1
+Aircall,1,0.1
+Page Fly,1,0.1
+Page Builders,1,0.1
+Easycod,1,0.1
+Flipcx,1,0.1
+Bloomreach,1,0.1
+Salesforce Service Cloud,1,0.1
+Moneybird,1,0.1
+Whatsapp Chat,1,0.1
+Google Pagespeed,1,0.1
+Order Editing,1,0.1
+Stockly,1,0.1
+Stripe Early Fraud Warnings,1,0.1
+Google Search Result Rating,1,0.1
+Google Shopping And Seo,1,0.1
+Any Other Review App,1,0.1
+Post Purchase Upsell,1,0.1
+Bundle Builder Apps,1,0.1
+Manifest,1,0.1
+Multi Locations,1,0.1
+Appstle,1,0.1
+Sagawa Express,1,0.1
+Store Products,1,0.1
+Wholesale Gorilla,1,0.1
+Zoho Sheets,1,0.1
+Fast Bundle: Bundles Discounts,1,0.1
+3Pls,1,0.1
+Search Engine Optimization,1,0.1
+Omie,1,0.1
+Store,1,0.1
+Websites,1,0.1
+Groupon,1,0.1
+Newegg,1,0.1
+Store Locator,1,0.1
+Artificial Intelligence,1,0.1
+Datech,1,0.1
+Dropship,1,0.1
+Loyalty,1,0.1
+The New Checkout,1,0.1
+New Customer Account Portal,1,0.1
+Wishlist,1,0.1
+Marketing Automations & Flow,1,0.1
+Mollie,1,0.1
+Gift Cards,1,0.1
+Ncr Counterpoint,1,0.1
+Sps,1,0.1
+Optimonk,1,0.1
+Analytics,1,0.1
+Chronopost Relais,1,0.1
+Thank You,1,0.1
+Actindo,1,0.1
+Bundling & Discount,1,0.1
+Quick Checkout,1,0.1
+Easyship,1,0.1
+Tiktok Business,1,0.1
+Chronopost Shop2Shop,1,0.1
+Cheetah,1,0.1
+Chita,1,0.1
+Pickmeup,1,0.1
+Avatax,1,0.1
+Azure,1,0.1
+Status Page,1,0.1
+Carthook,1,0.1
+Canva,1,0.1
+Bss Product Labels & Badges,1,0.1
+Printful: Print On Demand,1,0.1
+Transcy: Ai Language Translate,1,0.1
+Sales Rep,1,0.1
+Gokwik,1,0.1
+Canva.Com,1,0.1
+Hextom: Free Shipping Bar,1,0.1

@@ -34,7 +34,11 @@ logger = logging.getLogger(__name__)
 MAX_RETRIES = 5
 MIN_DELAY = 5
 MAX_DELAY = 10
-CONCURRENT_REQUESTS = 2
+CONCURRENT_REQUESTS = 2  # Keep low to avoid rate limiting
+
+# Cache settings
+CACHE_DIR = os.path.join(DATA_DIR, 'cache')
+os.makedirs(CACHE_DIR, exist_ok=True)  # Ensure cache directory exists
 
 # User agent rotation
 USER_AGENTS = [

@@ -24,7 +24,7 @@ REQUEST_TIMEOUT = 30
 CONCURRENT_REQUESTS = 3  # Reduced to avoid rate limiting
 MIN_DELAY = 5  # Increased from 2
 MAX_DELAY = 10  # Increased from 5
-TARGET_APPS_WITH_INTEGRATIONS = 200  # New target: minimum apps with integrations
+TARGET_APPS_WITH_INTEGRATIONS = 1000  # Updated target: minimum apps with integrations
 
 # Base URL
 BASE_URL = 'https://apps.shopify.com'
